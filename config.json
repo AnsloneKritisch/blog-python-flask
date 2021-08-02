@@ -1,0 +1,15 @@
+{
+  "par":
+  {
+    "local_server" : "True",
+    "fb_url" : "https://www.facebook.com",
+    "tw_url" : "https://twitter.com",
+    "gh_url" : "https://github.com/AnsloneKritisch/blog-python-flask",
+    "b_name" : " Sarita ",
+    "tag_line" : " A Blog loved by Programmes ! " ,
+    "gmail-user" : "   " ,
+    "gmail-password" : "    "
+
+  }
+
+}
