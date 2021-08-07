@@ -1,6 +1,6 @@
-from flask import Flask, render_template
+from flask import Flask, render_template ,request
 import json
-from flask_mail import Mail
+from flask_mail import Mail , Message
 
 
 with open('config.json', 'r') as c:
